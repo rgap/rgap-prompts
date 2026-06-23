@@ -1,0 +1,11 @@
+Generate a pixel art character (512x512 resolution, 8-bit style) with transparent background. The character should represent an [NOMBRE DEL ROL]
+
+The character must be full-body, centered, and fully visible. Use compact pixel mascot proportions: a slightly oversized head, short body, compact arms, and short legs. The head should be only slightly larger than normal, not exaggerated. The arms should be short and compact, ending around the waist or upper legs. The legs should be short, small, and proportional to the body. The overall look should be cute, professional, and stylized. Pretty formal clothing.
+
+The character should have expressive black-rimmed glasses, white eyes with black pupils, and a professional but stylized outfit. They should be holding or interacting with exactly 3 tools random surrounding objects related to their job. These may include a laptop or design tablet or server icon or flowchart, or code window, etc. Do not include more than 3 tools or objects total. Keep the tools simple, compact, well spaced, and close to the character.
+
+It is mandatory that the character and exactly 3 surrounding tools or objects occupy almost the entire 512x512 canvas. There should be no visible empty spacing or padding toward the canvas borders. The outermost parts of the character, accessories, and surrounding objects should be extremely close to the image edges, almost touching the borders, exactly 25 pixels to the borders to all sides, no less than 25 pixels, while still remaining fully visible. The composition must feel edge-to-edge, tight, compact, and space-efficient.
+
+Do not leave wide margins, large empty areas, or unused transparent space around the character. Avoid excessive background space. The head, hair, hands, feet, tools, and surrounding objects must never be cropped, but they should be positioned as close as possible to the borders. Random hair color that can be blue or green or orange or brown or blonde or etc. The character should visually fill the canvas from top to bottom and from side to side.
+
+Use vibrant colors and a clean retro pixel-art style. Keep the same general type of pixel-art character throughout: cute, compact, professional, and readable. No text or labels.
